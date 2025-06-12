@@ -1,0 +1,138 @@
+﻿@page "/create"
+@inject HomeLoanApiServices _apiServices;
+@inject NavigationManager navigationManager;
+@inject SimpleAdminPanel.LSMakerChecker makercheckerService;
+@using SimpleAdminPanel.Models;
+
+@if (created == 1)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Well Done!</strong> You have successfully submitted.
+    </div>
+}
+<div class="card">
+    <div class="card-header">
+        <h4>Home Loan / LS Assign HL Form</h4><br />
+    </div>
+    <div class="card-body">
+        <form>
+            <div class="form-group">
+                <label for="saelcallid">Sale Call ID *</label><br />
+                <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="" @bind=model.CaseID>
+                <br />
+            </div>
+            <div class="form-group">
+                <label for="stage">Stage *</label><br />
+                <select class="form-control" id="exampleFormControlSelect1" @bind=@Stage>
+                    <option class="placeholder" selected></option>
+                    <option value="Analyst Assign">Analyst Assign</option>
+                    <option value="Recommended Property Price and Complete (DOA)">Recommended Property Price and Complete(DOA)</option>
+                    <option value="LS complete with Requirements">LS Complete with Requirements</option>
+                    <option value="LS Update for Normal and Underwriting Branch">LS Update for Normal and Underwriting Branch</option>
+                    <option value="LS Return">LS Return</option>
+                    <option value="LS Remove">LS Remove</option>
+                </select>
+            </div><br />
+            @if (Stage == "Analyst Assign")
+            {
+                <div class="form-group">
+                    <label for="saelcallid">Approval Level *</label><br />
+                    <select class="form-control" id="exampleFormControlSelect1" @bind=model.ApprovalLevel>
+                        <option class="placeholder" selected></option>
+                        <option>Branch Manager</option>
+                        <option>Regional Manager</option>
+                        <option>Head Offic</option>
+                    </select>
+                </div>
+
+                <br />
+                <div class="form-group">
+                    <label for="saelcallid">Assign Analyst Name *</label><br />
+                    <select class="form-control" @onchange="(e)=>GetEmailByAssignPersonName(e,selectedAssignedPerson)">
+                        <option class="placeholder" selected></option>
+                        @foreach (var assignperson in lstAssignPerson)
+                        {
+                            <option value="@assignperson.Name">@assignperson.Name</option>
+                        }
+                    </select>
+                </div>
+
+                <br />
+                <div class="form-group">
+                    <label for="saelcallid">Assign Analyst Email *</label><br />
+                    <input type="text" class="form-control" id="exampleInputEmail1" @bind=@assignPersonEmail>
+                </div>
+                <br />
+            }
+            @{
+                switch (Stage.ToString())
+                {
+                    case "Recommended Property Price and Complete (DOA)":
+                        <div class="form-group">
+                            <label for="exampleFormControlTextarea1">Assessor Price per sq-ft MMK *</label>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" @bind=model.Assessor_Price></textarea>
+                        </div>
+                        <br />
+                        <div class="form-group">
+                            <label for="saelcallid">Assessor Total Assessed Value MMK *</label><br />
+                            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="" @bind=model.Assessor_Total_Assessed_Value>
+                            <br />
+                        </div>
+                        <br />
+                        break;
+
+                    case "LS complete with Requirements":
+                        <div class="form-group">
+                            <label for="exampleFormControlTextarea1">LS Complete with Requirements *</label>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" @bind=model.LS_Complete></textarea>
+                        </div>
+                        <br />
+                        break;
+
+                    default:
+                        break;
+                }
+            }
+            <button type="button" class="btn btn-outline-info" @onclick=Back>Back</button>
+            <div class="form-group" style="float:right">
+                <button type="button" class="btn btn-primary" @onclick=Create>Submit</button>
+                <button type="button" class="btn btn-secondary" @onclick=@Back>Cancel</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@code {
+    private int created = 0;
+    private LSRequestModel model = new LSRequestModel();
+    private string selectedAssignedPerson { get; set; }
+    private string Stage = string.Empty;
+    private string assignPersonEmail = string.Empty;
+    private List<LSAnalystAssignPersonList> lstAssignPerson { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        lstAssignPerson = makercheckerService.AssignPersonList();
+    }
+
+    protected string GetEmailByAssignPersonName(ChangeEventArgs e, string Name)
+    {
+        selectedAssignedPerson = e.Value.ToString();
+        assignPersonEmail = makercheckerService.GetEmailByName(selectedAssignedPerson);
+        return assignPersonEmail;
+    }
+    protected async Task<int> Create()
+    {
+        model.Stage = Stage;
+        model.Assign_Analyst_Name = selectedAssignedPerson;
+        model.Assign_Analyst_Email = assignPersonEmail;
+        created = await _apiServices.CreateLS(model);
+        return created > 0 ? 1 : 0;
+    }
+
+    protected void Back()
+    {
+        created = 0;
+        navigationManager.NavigateTo("homeloan");
+    }
+}

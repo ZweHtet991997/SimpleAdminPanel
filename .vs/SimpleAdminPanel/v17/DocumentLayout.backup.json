@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\pages\\createls.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\pages\\createls.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\shared\\landinglayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\shared\\landinglayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\pages\\landingpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\pages\\landingpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\pages\\homeloan_ls.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\pages\\homeloan_ls.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\lsmakerchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\lsmakerchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\apiurlrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\apiurlrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\apiservices\\homeloanapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\apiservices\\homeloanapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\models\\lsrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\models\\lsrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\models\\lsanalystassignpersonlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\models\\lsanalystassignpersonlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\models\\form1responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\models\\form1responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\simpleadminpanel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\simpleadminpanel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|c:\\myprojects\\salespipelineapp\\simpleadminpanel\\simpleadminpanel\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7B58C8-7355-4E71-9315-04F85CEF8382}|SimpleAdminPanel\\SimpleAdminPanel.csproj|solutionrelative:simpleadminpanel\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeLoan_LS.razor",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\HomeLoan_LS.razor",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Pages\\HomeLoan_LS.razor",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\HomeLoan_LS.razor",
+              "RelativeToolTip": "SimpleAdminPanel\\Pages\\HomeLoan_LS.razor",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAiwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T13:14:33.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\_Imports.razor",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\_Imports.razor",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\_Imports.razor",
+              "RelativeToolTip": "SimpleAdminPanel\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:50:22.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "SimpleAdminPanel\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T13:13:37.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SimpleAdminPanel\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-18T13:09:48.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateLS.razor",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\CreateLS.razor",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Pages\\CreateLS.razor",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\CreateLS.razor",
+              "RelativeToolTip": "SimpleAdminPanel\\Pages\\CreateLS.razor",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T12:25:57.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LandingLayout.razor",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Shared\\LandingLayout.razor",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Shared\\LandingLayout.razor",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Shared\\LandingLayout.razor",
+              "RelativeToolTip": "SimpleAdminPanel\\Shared\\LandingLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T10:06:44.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LandingPage.razor",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\LandingPage.razor",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Pages\\LandingPage.razor",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\LandingPage.razor",
+              "RelativeToolTip": "SimpleAdminPanel\\Pages\\LandingPage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T09:45:22.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "SimpleAdminPanel\\Pages\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:48:23.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LSMakerChecker.cs",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\LSMakerChecker.cs",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\LSMakerChecker.cs",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\LSMakerChecker.cs",
+              "RelativeToolTip": "SimpleAdminPanel\\LSMakerChecker.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:48:20.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Program.cs",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Program.cs",
+              "RelativeToolTip": "SimpleAdminPanel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:50:14.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\appsettings.json",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\appsettings.json",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\appsettings.json",
+              "RelativeToolTip": "SimpleAdminPanel\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAD6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T12:51:23.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiURLRouter.cs",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\ApiURLRouter.cs",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\ApiURLRouter.cs",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\ApiURLRouter.cs",
+              "RelativeToolTip": "SimpleAdminPanel\\ApiURLRouter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:03:46.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeLoanApiServices.cs",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\ApiServices\\HomeLoanApiServices.cs",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\ApiServices\\HomeLoanApiServices.cs",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\ApiServices\\HomeLoanApiServices.cs",
+              "RelativeToolTip": "SimpleAdminPanel\\ApiServices\\HomeLoanApiServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:34:09.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "SimpleAdminPanel\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T07:13:59.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LSAnalystAssignPersonList.cs",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Models\\LSAnalystAssignPersonList.cs",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Models\\LSAnalystAssignPersonList.cs",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Models\\LSAnalystAssignPersonList.cs",
+              "RelativeToolTip": "SimpleAdminPanel\\Models\\LSAnalystAssignPersonList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:12:02.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1ResponseModel.cs",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Models\\Form1ResponseModel.cs",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Models\\Form1ResponseModel.cs",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Models\\Form1ResponseModel.cs",
+              "RelativeToolTip": "SimpleAdminPanel\\Models\\Form1ResponseModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:32:08.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\App.razor",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\App.razor",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\App.razor",
+              "RelativeToolTip": "SimpleAdminPanel\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:50:16.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LSRequestModel.cs",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Models\\LSRequestModel.cs",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Models\\LSRequestModel.cs",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Models\\LSRequestModel.cs",
+              "RelativeToolTip": "SimpleAdminPanel\\Models\\LSRequestModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:54:11.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "SimpleAdminPanel\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T13:08:14.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SimpleAdminPanel.csproj",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\SimpleAdminPanel.csproj",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\SimpleAdminPanel.csproj",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\SimpleAdminPanel.csproj",
+              "RelativeToolTip": "SimpleAdminPanel\\SimpleAdminPanel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-20T12:04:55.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\Error.cshtml",
+              "RelativeToolTip": "SimpleAdminPanel\\Pages\\Error.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T12:05:29.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\FetchData.razor",
+              "RelativeToolTip": "SimpleAdminPanel\\Pages\\FetchData.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:48:32.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "SimpleAdminPanel\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T13:07:18.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Pages\\Index.razor",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\Index.razor",
+              "RelativeToolTip": "SimpleAdminPanel\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:48:36.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Pages\\Counter.razor",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Pages\\Counter.razor",
+              "RelativeToolTip": "SimpleAdminPanel\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T12:50:30.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecastService.cs",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Data\\WeatherForecastService.cs",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Data\\WeatherForecastService.cs",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Data\\WeatherForecastService.cs",
+              "RelativeToolTip": "SimpleAdminPanel\\Data\\WeatherForecastService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:11:12.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Data\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SimpleAdminPanel\\Data\\WeatherForecast.cs",
+              "ToolTip": "C:\\MyProjects\\SalesPipelineApp\\SimpleAdminPanel\\SimpleAdminPanel\\Data\\WeatherForecast.cs",
+              "RelativeToolTip": "SimpleAdminPanel\\Data\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:11:23.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
